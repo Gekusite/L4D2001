@@ -7,7 +7,7 @@
 **Mafia- Running Man Song (Tank Music)** is a Left 4 Dead 2 sound mod. It replaces tank theme with La Verdine performed by Latcho Drom. The theme is a little bit quiet, so in order to hear it increase music volume in audio options.
 
 ## Credits
-Music from the video game Mafia: The City of Lost Heaven (2002), by Illusion Softworks </br>
+Music from the video game Mafia: The City of Lost Heaven (2002), by Illusion Softworks <br/>
 Music by Latcho Drom
 
 ## Download
